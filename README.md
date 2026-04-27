@@ -1,1 +1,0 @@
-# Tugas-Praktikum-K-Means
